@@ -7,7 +7,7 @@ Created during microcontroller programming classes at *ETEC Jorge Street*, maste
 - Arduino Uno R3
 - Liquid Crystal Display Module
 - 4x4 Matrix keyboard
-- Grenn led
+- Green led
 - Buzzer
 - Resistors
 - Potentiometer
